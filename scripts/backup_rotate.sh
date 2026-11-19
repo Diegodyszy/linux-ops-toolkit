@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 ORIGEM="$HOME/cofre-suporte"
 DESTINO="$HOME/backups-cofre"
 DATA=$(date +%F)
